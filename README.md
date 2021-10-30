@@ -4,6 +4,7 @@ This is a simple sketch that will display one line of text sent to the Arduino o
 
 Affiliate link to 16x2 I2C display on Amazon: https://amzn.to/3BsJL4j
 
+Wiring Diagram:
 ![Wiring diagram](http://tsog-milsim.com/images/ARMACOM_LCD.png)
 
 
